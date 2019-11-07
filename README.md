@@ -1,3 +1,4 @@
+#Jónas Helgi Sverrisson - jhs18@hi.is
 # Verkefni 8
 
 Forrita skal viðmót sem leyfir að bæta við, breyta, eyða og klára verkefni af lista.
